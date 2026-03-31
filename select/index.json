@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Scars (VIVINOS - ALNST Sub : Till Part.2)",
+  "base_artist": "AKUGETSU",
+  "createdAt": "2026-03-31T15:10:06.681089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scars (VIVINOS - ALNST Sub : Till Part.2)",
+      "artist": "AKUGETSU",
+      "has_synced": true,
+      "path": "select/01_Scars_(VIVINOS_-_ALNST_Sub___Till_Part.2)_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scars (VIVINOS - ALNST Sub : Till Part.2) (Original Sound Track)",
+      "artist": "AKUGETSU",
+      "has_synced": true,
+      "path": "select/02_Scars_(VIVINOS_-_ALNST_Sub___Till_Part.2)_(Original_Sound_Track)_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scars of the Crucifix",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/03_Scars_of_the_Crucifix_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "War Scars",
+      "artist": "YG feat. Tay2xs",
+      "has_synced": true,
+      "path": "select/04_War_Scars_YG_feat._Tay2xs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "War Scars (feat. Tayx2)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/05_War_Scars_(feat._Tayx2)_YG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scars",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/06_Scars_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Scars",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Scars_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "scars",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/08_scars_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Battle Scars",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/09_Battle_Scars_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scars",
+      "artist": "Brennan Savage",
+      "has_synced": true,
+      "path": "select/10_Scars_Brennan_Savage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scars",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/11_Scars_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scars (Instrumental)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/12_Scars_(Instrumental)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scars - SBTRKT Remix",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/13_Scars_-_SBTRKT_Remix_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Scars (feat. Kelis, Meleka & Chipmunk)",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/14_Scars_(feat._Kelis,_Meleka_&_Chipmunk)_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Battle Scars (feat. Willy Mason)",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/15_Battle_Scars_(feat._Willy_Mason)_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Loretta's Scars",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/16_Loretta's_Scars_Pavement.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Scars On Land",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/17_Scars_On_Land_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Calvary Scars",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/18_Calvary_Scars_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Calvary Scars II/Aux. Out",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/19_Calvary_Scars_II_Aux._Out_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Calvary Scars II \u0000 Aux. Out",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/20_Calvary_Scars_II_\u0000_Aux._Out_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Scars In the Landscape of God",
+      "artist": "Abigor",
+      "has_synced": false,
+      "path": "select/21_Scars_In_the_Landscape_of_God_Abigor.txt"
+    }
+  ]
+}
